@@ -1,12 +1,11 @@
 Bowling Challenge
 =================
 
+<img src="./src/images/bowlingshowcase.gif">
+<br><br>
 <img src='https://i.gyazo.com/f54cfccb54c69b67d390a3ff6de2ecb3.jpg'>
 <br><br>
 <img src='https://i.gyazo.com/7fb81503d08e93c7ca678fbb6b3a6f2b.jpg'>
-<br><br>
-<img src="./src/images/bowlingshowcase.gif">
-
 
 ## The Task
 
