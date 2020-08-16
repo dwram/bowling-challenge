@@ -1,5 +1,6 @@
 Bowling Challenge
 =================
+Demo showcasing functional dyanmic views and controlled elements
 
 <img src="./src/images/bowlingshowcase.gif">
 <br><br>
